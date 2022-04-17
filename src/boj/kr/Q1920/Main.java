@@ -1,4 +1,4 @@
-package Q1920;
+package boj.kr.Q1920;
 
 import java.io.BufferedReader;
 import java.io.IOException;

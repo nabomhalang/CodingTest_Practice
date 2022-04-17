@@ -1,4 +1,4 @@
-package Q4673;
+package boj.kr.Q4673;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package Q10870;
+package boj.kr.Q10870;
 
 import java.io.*;
 
